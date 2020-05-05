@@ -11,7 +11,7 @@ Purpose:
 
 Usage: python get_images.py [DATEDIR]
 
-Returns: nothing
+Returns: nothing, saves files in selected directory
 '''
 
 #Local directory base
